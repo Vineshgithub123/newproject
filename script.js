@@ -5,8 +5,11 @@
 
 
 
-let data = ["delectus aut autem","quis ut nam facilis et officia qui","fugiat veniam minus","et porro tempora","laboriosam mollitia et enim quasi adipisci quia provident illum","qui ullam ratione quibusdam voluptatem quia omnis","illo expedita consequatur quia in","quo adipisci enim quam ut ab","molestiae perspiciatis ipsa","illo est ratione doloremque quia maiores aut","vero rerum temporibus dolor","ipsa repellendus fugit nisi","et doloremque nulla",
-]
+let data = ["delectus aut autem","quis ut nam facilis et officia qui","fugiat veniam minus","et porro tempora","laboriosam mollitia et enim quasi adipisci quia provident illum","qui ullam ratione quibusdam voluptatem quia omnis","illo expedita consequatur quia in","quo adipisci enim quam ut ab","molestiae perspiciatis ipsa",
+"illo est ratione doloremque quia maiores aut","vero rerum temporibus dolor","ipsa repellendus fugit nisi","et doloremque nulla",
+"repellendus sunt dolores architecto voluptatum","ab voluptatum amet voluptas","accusamus eos facilis sint et aut voluptatem","quo laboriosam deleniti aut qui","dolorum est consequatur ea mollitia in culpa",
+"molestiae ipsa aut voluptatibus pariatur dolor nihil","ullam nobis libero sapiente ad optio sint","suscipit repellat esse quibusdam voluptatem incidunt","distinctio vitae autem nihil ut molestias quo","et itaque necessitatibus maxime molestiae qui quas velit","adipisci non ad dicta qui amet quaerat doloribus ea",
+"voluptas quo tenetur perspiciatis explicabo natus","aliquam aut quasi",]
 
 let list =  document.getElementById("list");
 data.forEach((item) => {
