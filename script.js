@@ -36,7 +36,7 @@ let getchecked = new Promise(function(resolve,reject){
     if(!notable){
 
 
-        resolve(" 1 task");
+        resolve(" 5 task");
     }
     else{
         reject("no task")
@@ -45,7 +45,7 @@ let getchecked = new Promise(function(resolve,reject){
 });
 
 getchecked.then(function(fromresolve){
-    alert("checked" + fromresolve)
+    alert("You have completed" + fromresolve)
 
 
 }).catch(function(fromreject){
